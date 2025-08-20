@@ -1,0 +1,30 @@
+FF // pattern 1: FFFFFF gray decimal: 255.0 round up integer: 255
+FF // round_down integer: 255
+FF // rond_to_even integer: 255
+E1 // pattern 2: 74F0F0 gray decimal: 224.5 round up integer: 225
+E0 // round_down integer: 224
+E0 // rond_to_even integer: 224
+E0 // pattern 3: 6CF0F0 gray decimal: 223.5 round up integer: 224
+DF // round_down integer: 223
+E0 // rond_to_even integer: 224
+9E // pattern 4: 62CC61 gray decimal: 157.3125 round up integer: 158
+9D // round_down integer: 157
+9D // rond_to_even integer: 157
+30 // pattern 5: 74813 gray decimal: 47.3125 round up integer: 48
+2F // round_down integer: 47
+2F // rond_to_even integer: 47
+63 // pattern 6: 1047B5 gray decimal: 98.5 round up integer: 99
+62 // round_down integer: 98
+62 // rond_to_even integer: 98
+C9 // pattern 7: 9AF48E gray decimal: 200.875 round up integer: 201
+C8 // round_down integer: 200
+C9 // rond_to_even integer: 201
+83 // pattern 8: 907F84 gray decimal: 130.6875 round up integer: 131
+82 // round_down integer: 130
+83 // rond_to_even integer: 131
+CC // pattern 9: 7CD0E2 gray decimal: 203.125 round up integer: 204
+CB // round_down integer: 203
+CB // rond_to_even integer: 203
+63 // pattern 10: 74478C gray decimal: 98.1875 round up integer: 99
+62 // round_down integer: 98
+62 // rond_to_even integer: 98

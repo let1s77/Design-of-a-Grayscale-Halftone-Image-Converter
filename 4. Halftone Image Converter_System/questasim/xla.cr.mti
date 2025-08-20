@@ -1,0 +1,27 @@
+{C:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/4. Halftone Image Converter System/Testbench_Halftone Image Converter_System/src/ROM.v} {1 {vlog -work work -vopt {C:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/4. Halftone Image Converter System/Testbench_Halftone Image Converter_System/src/ROM.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} {C:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/4. Halftone Image Converter System/Testbench_Halftone Image Converter_System/src/RAM.v} {1 {vlog -work work -vopt {C:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/4. Halftone Image Converter System/Testbench_Halftone Image Converter_System/src/RAM.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} {C:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/4. Halftone Image Converter System/Testbench_Halftone Image Converter_System/sim/testbench.sv} {1 {vlog -work work -vopt -sv {C:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/4. Halftone Image Converter System/Testbench_Halftone Image Converter_System/sim/testbench.sv}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ROM
+-- Compiling module RAM
+-- Compiling module error_diffusion
+-- Compiling module grayscale
+-- Compiling module top
+-- Compiling module testfixture
+
+Top level modules:
+	testfixture
+
+} {} {}}

@@ -1,0 +1,20 @@
+FF // center new pixel in decimal:255
+78 // right pixel in decimal:120
+72 // lower right pixel in decimal:114
+AA // lower center pixel in decimal:170
+00 // lower left pixel in decimal:0
+FF // center new pixel in decimal:255
+14 // right pixel in decimal:20
+44 // lower right pixel in decimal:68
+51 // lower center pixel in decimal:81
+A9 // lower left pixel in decimal:169
+00 // center new pixel in decimal:0
+87 // right pixel in decimal:135
+FF // lower right pixel in decimal:255
+44 // lower center pixel in decimal:68
+FF // lower left pixel in decimal:255
+FF // center new pixel in decimal:255
+45 // right pixel in decimal:69
+A4 // lower right pixel in decimal:164
+00 // lower center pixel in decimal:0
+26 // lower left pixel in decimal:38

@@ -1,0 +1,146 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/Grayscale_hafltone_img/3. Grayscale Image Converter System/Testbench_Grayscale Image Converter_System/questasim
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+Z1 VlW>CDQQPN2M@4zWJelaLo3
+Z2 04 11 4 work testfixture fast 0
+Z3 =1-787264327a9b-68a3f84d-e6-ea8
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;10.2c;57
+Z7 dC:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/Grayscale_hafltone_img/3. Grayscale Image Converter System/Testbench_Grayscale Image Converter_System/questasim
+Z8 !s110 1755576397
+vgrayscale
+Z9 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z10 !s110 1755609541
+!i10b 1
+Z11 !s100 oZb_286=[b;mbL>HP2Ua;0
+Z12 I?8QWhhk:hTK28NZGh9k5Z0
+Z13 V`JN@9S9cnhjKRR_L]QIcM3
+Z14 !s105 testbench_sv_unit
+S1
+Z15 dC:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/3. Grayscale Image Converter System/Testbench_Grayscale Image Converter_System/questasim
+Z16 w1755576384
+Z17 F../src/grayscale.v
+Z18 F../src/top.v
+Z19 8C:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/3. Grayscale Image Converter System/Testbench_Grayscale Image Converter_System/sim/testbench.sv
+Z20 FC:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/3. Grayscale Image Converter System/Testbench_Grayscale Image Converter_System/sim/testbench.sv
+L0 1
+Z21 OL;L;10.2c;57
+r1
+!s85 0
+31
+Z22 !s108 1755609541.104000
+Z23 !s107 ../src/grayscale.v|../src/top.v|../src/RAM.v|../src/ROM.v|C:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/3. Grayscale Image Converter System/Testbench_Grayscale Image Converter_System/sim/testbench.sv|
+Z24 !s90 -reportprogress|300|-sv|+define+P1|C:/Users/Ms Khanh/OneDrive - hcmut.edu.vn/Desktop/img_proj/3. Grayscale Image Converter System/Testbench_Grayscale Image Converter_System/sim/testbench.sv|
+!i111 0
+Z25 o-sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z26 !s92 -sv +define+P1 -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vRAM
+R9
+R10
+!i10b 1
+Z27 !s100 UGm><LmoHH<1Qj?_Ol>n]0
+Z28 I[Cz@?fjSj<Ui79eNbhDG02
+R13
+R14
+S1
+R15
+Z29 w1755575652
+Z30 F../src/RAM.v
+R19
+R20
+L0 1
+R21
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i111 0
+R25
+R26
+Z31 n@r@a@m
+vROM
+R9
+R10
+!i10b 1
+Z32 !s100 k^V;gVo`GNzbT8e3>o4mB3
+Z33 I0Gd05>K[>z^BMChd>OY^S2
+R13
+R14
+S1
+R15
+R29
+Z34 F../src/ROM.v
+R19
+R20
+L0 3
+R21
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i111 0
+R25
+R26
+Z35 n@r@o@m
+vtestfixture
+R9
+R10
+!i10b 1
+Z36 !s100 K3BRN2U>63D42MWF<zdVF3
+Z37 IBJIOA5MoNmLDi6Z3YMbB03
+R13
+R14
+S1
+R15
+R29
+R19
+R20
+L0 22
+R21
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i111 0
+R25
+R26
+vtop
+R9
+R10
+!i10b 1
+Z38 !s100 kBWEadYUo7NT2f4RUYU2k1
+Z39 I4P_3OdReQFo=<X;@2?k<@1
+R13
+R14
+S1
+R15
+R16
+R18
+R19
+R20
+L0 2
+R21
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i111 0
+R25
+R26
