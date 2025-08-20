@@ -28,7 +28,7 @@ Halftone Conversion: The grayscale image is transformed into a binary halftone i
 ****
 The converter consists of the following hardware blocks:
 
-**ROM* – Stores the input RGB image.
+**ROM** – Stores the input RGB image.
 
 **Grayscale Converter** – Uses weighted coefficients to calculate pixel brightness:
 
