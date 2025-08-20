@@ -8,6 +8,7 @@ Convert a color RGB image into a grayscale image.
 Apply Error Diffusion (Floyd–Steinberg algorithm) to generate a halftone (binary) image from the grayscale version.
 
 Such systems are useful in printing, image compression, and low-resource multimedia displays, where storage and display devices are limited to black-and-white but still need to preserve visual quality.
+
 🖼️ Workflow
 The system processes images step by step:
 
@@ -19,6 +20,7 @@ Halftone Conversion: The grayscale image is transformed into a binary halftone i
 | Original (RGB) | Grayscale | Halftone |
 |----------------|-----------|----------|
 | ![Original](images/xiu_mai.bmp) | ![Grayscale](images/gray_test.bmp) | ![Halftone](images/dot_test.bmp) |
+
 ⚙️ System Architecture
 
 The converter consists of the following hardware blocks:
