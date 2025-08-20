@@ -31,8 +31,11 @@ The converter consists of the following hardware blocks:
 **ROM** – Stores the input RGB image.
 
 **Grayscale Converter** – Uses weighted coefficients to calculate pixel brightness:
-
-Y = 0.3125R + 0.5625G + 0.125B
+            **Grayscale Conversion Formula:** Y = 0.3125R + 0.5625G + 0.125B
+Where:
+- 🔴**R** = Red channel (0-255)
+- 🟢**G** = Green channel (0-255)  
+- 🔵**B** = Blue channel (0-255)
 
 
 (optimized using fixed-point arithmetic and bit-shifting).
