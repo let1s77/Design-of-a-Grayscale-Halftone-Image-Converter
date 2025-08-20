@@ -10,6 +10,7 @@ Apply Error Diffusion (Floyd–Steinberg algorithm) to generate a halftone (bina
 Such systems are useful in printing, image compression, and low-resource multimedia displays, where storage and display devices are limited to black-and-white but still need to preserve visual quality.
 
 **🖼️ Workflow**
+
 The system processes images step by step:
 
 Input: Original RGB image (24-bit, Red–Green–Blue channels).
@@ -20,6 +21,8 @@ Halftone Conversion: The grayscale image is transformed into a binary halftone i
 | Original (RGB) | Grayscale | Halftone |
 |----------------|-----------|----------|
 | ![Original](4.%20Halftone%20Image%20Converter_System/sim/image/xiu_mai.bmp) | ![Grayscale](4.%20Halftone%20Image%20Converter_System/sim/image/gray_test.bmp) | ![Halftone](4.%20Halftone%20Image%20Converter_System/sim/image/dot_test.bmp) |
+
+
 **
 ⚙️ **System Architecture****
 
