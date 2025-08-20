@@ -1,5 +1,5 @@
 # Design-of-a-Grayscale-Halftone-Image-Converter
-**📌 **Introduction
+**📌 Introduction**
 ****
 This project implements a digital image processing system on hardware (Verilog HDL) that can:
 
@@ -10,7 +10,7 @@ Apply Error Diffusion (Floyd–Steinberg algorithm) to generate a halftone (bina
 Such systems are useful in printing, image compression, and low-resource multimedia displays, where storage and display devices are limited to black-and-white but still need to preserve visual quality.
 
 **🖼️ Workflow**
-
+****
 The system processes images step by step:
 
 Input: Original RGB image (24-bit, Red–Green–Blue channels).
@@ -24,8 +24,8 @@ Halftone Conversion: The grayscale image is transformed into a binary halftone i
 
 
 **
-⚙️ **System Architecture****
-
+**⚙️ System Architecture**
+****
 The converter consists of the following hardware blocks:
 
 ROM – Stores the input RGB image.
