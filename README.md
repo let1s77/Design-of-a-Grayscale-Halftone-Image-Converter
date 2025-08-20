@@ -23,22 +23,22 @@ Halftone Conversion: The grayscale image is transformed into a binary halftone i
 | ![Original](4.%20Halftone%20Image%20Converter_System/sim/image/xiu_mai.bmp) | ![Grayscale](4.%20Halftone%20Image%20Converter_System/sim/image/gray_test.bmp) | ![Halftone](4.%20Halftone%20Image%20Converter_System/sim/image/dot_test.bmp) |
 
 
-**
+
 **⚙️ System Architecture**
 ****
 The converter consists of the following hardware blocks:
 
-ROM – Stores the input RGB image.
+**ROM* – Stores the input RGB image.
 
-Grayscale Converter – Uses weighted coefficients to calculate pixel brightness:
+**Grayscale Converter** – Uses weighted coefficients to calculate pixel brightness:
 
 Y = 0.3125R + 0.5625G + 0.125B
 
 
 (optimized using fixed-point arithmetic and bit-shifting).
 
-Error Diffusion Unit – Implements Floyd–Steinberg error diffusion to produce halftone output (0 or 255).
+**Error Diffusion Unit** – Implements Floyd–Steinberg error diffusion to produce halftone output (0 or 255).
 
-RAM – Temporarily stores grayscale results and final halftone output.
+**RAM** – Temporarily stores grayscale results and final halftone output.
 
-Controller – FSM-based controller that manages all read/write and processing steps.
+**Controller** – FSM-based controller that manages all read/write and processing steps.
