@@ -46,3 +46,4 @@ Where:
 - **RAM** – Temporarily stores grayscale results and final halftone output.
 
 - **Controller** – FSM-based controller that manages all read/write and processing steps.
+ ![Controller](5.%20spec/controller.png)
